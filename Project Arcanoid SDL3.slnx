@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project Arcanoid SDL3.vcxproj" Id="99b9909e-03d1-4a68-966c-6e3ecb32d4d8" />
+</Solution>
